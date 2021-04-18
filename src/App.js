@@ -1,14 +1,11 @@
-import { BrowserRouter as Router } from "react-router-dom";
-import Directory from "../src/Pages/Directory";
-
+import React from 'react';
+import Header from "./components/Table/Header"
+import Main from './components/Form/Main';
 function App() {
-  return (
-    <Router basename="/user-directory">
-      <div>
-        <Directory />
-      </div>
-    </Router>
-  );
+  return <>
+  <Main/>
+  <Header/> 
+  </>
 }
 
 export default App;
