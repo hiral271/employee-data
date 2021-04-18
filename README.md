@@ -1,6 +1,6 @@
 
 
-# depedencies
+#  Depedencies
 
 axios
 
