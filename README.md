@@ -1,3 +1,23 @@
+### depedencies
+
+axios
+
+bootstrap
+
+react-axios
+
+react-dom
+
+
+
+# calling API from React using axios and other depedencies like bootstrap ,react-dom to create employee directory datas 
+
+
+### View and Screen-Shot 
+
+
+![](https://github.com/hiral271/employee-data/blob/master/view/Image-2021-04-17-at-11.43.08-PM.jpeg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
